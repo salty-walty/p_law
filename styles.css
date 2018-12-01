@@ -1,0 +1,70 @@
+#center {
+	text-align: center;
+}
+
+#header {
+	height: 200px;
+	background-color: #f2f2f2;
+}
+
+#nav-bar {
+	height: 220px;
+  	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: 	#000060;
+}
+
+#main-head {
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: 	#000060;
+}
+
+#phone {
+	height: 220px;
+  	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: orange;
+}
+
+a:link{
+	color: 	#000060;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+#greeting-section {
+	height: 500px;
+	background-image: url("/Users/walton/Desktop/projects/p_law/hp-background.png");
+}
+
+#greeting-text {
+	font-size: 65px;
+	color: white ;
+	text-align: center;
+}
+
+#lil {
+	font-size: 50px;
+}
+
+#first-bit {
+	height: 500px;
+	background-color: #f2f2f2;
+}
+
+#paragraph {
+	font-size: 15px;
+	margin: 20px;
+}
+
+#contact-us {
+	font-size: 20px;
+}
