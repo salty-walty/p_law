@@ -6,6 +6,8 @@ body {
 
 #center {
 	text-align: center;
+	align-items: center;
+	align-content: center;
 }
 
 .head-container {
@@ -14,10 +16,11 @@ body {
 }
 
 .head-item{
+	display: flex;
 	flex-direction: row;
-	justify-content: center;
 	align-items: center;
 	align-content: center;
+	justify-content: center;
 	flex-wrap: wrap;
 }
 
